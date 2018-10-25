@@ -1,0 +1,555 @@
+{
+ "type": "record",
+ "name": "smartPlug",
+ "fields": [
+  {
+   "name": "day19",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day20",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day21",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day22",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day23",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day24",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day25",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day26",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day27",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day28",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day29",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day30",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day31",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day1",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day2",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.006'"
+  },
+  {
+   "name": "day3",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.257'"
+  },
+  {
+   "name": "day4",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.053'"
+  },
+  {
+   "name": "day5",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.597'"
+  },
+  {
+   "name": "day6",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.642'"
+  },
+  {
+   "name": "day7",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.439'"
+  },
+  {
+   "name": "day8",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.178'"
+  },
+  {
+   "name": "day9",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.259'"
+  },
+  {
+   "name": "day10",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '0.995'"
+  },
+  {
+   "name": "day11",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '0.569'"
+  },
+  {
+   "name": "day12",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.287'"
+  },
+  {
+   "name": "day13",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.371'"
+  },
+  {
+   "name": "day14",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.404'"
+  },
+  {
+   "name": "day15",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.588'"
+  },
+  {
+   "name": "day16",
+   "type": [
+    "double",
+    "null"
+   ],
+   "doc": "Type inferred from '1.426'"
+  },
+  {
+   "name": "day17",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "day18",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "sw_ver",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "hw_ver",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "mac",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "type",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "hwId",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "fwId",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "oemId",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "dev_name",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "model",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "deviceId",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "alias",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "icon_hash",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "relay_state",
+   "type": [
+    "int",
+    "null"
+   ]
+  },
+  {
+   "name": "on_time",
+   "type": [
+    "int",
+    "null"
+   ]
+  },
+  {
+   "name": "active_mode",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "feature",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "updating",
+   "type": [
+    "int",
+    "null"
+   ]
+  },
+  {
+   "name": "rssi",
+   "type": [
+    "int",
+    "null"
+   ]
+  },
+  {
+   "name": "led_off",
+   "type": [
+    "int",
+    "null"
+   ]
+  },
+  {
+   "name": "latitude",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "longitude",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "index",
+   "type": [
+    "int",
+    "null"
+   ]
+  },
+  {
+   "name": "zone_str",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "tz_str",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "dst_offset",
+   "type": [
+    "int",
+    "null"
+   ]
+  },
+  {
+   "name": "month1",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "month2",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "month3",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "month4",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "month5",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "month6",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "month7",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "month8",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "month9",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "month10",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "month11",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "month12",
+   "type": [
+    "double",
+    "null"
+   ],
+   "default": "0"
+  },
+  {
+   "name": "current",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "voltage",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "power",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "total",
+   "type": [
+    "double",
+    "null"
+   ]
+  },
+  {
+   "name": "time",
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  {
+   "name": "ledon",
+   "type": [
+    "boolean",
+    "null"
+   ]
+  },
+  {
+   "name": "systemtime",
+   "type": [
+    "string",
+    "null"
+   ]
+  }
+ ]
+}
